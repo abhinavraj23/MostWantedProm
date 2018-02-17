@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Rule1Activity" />
+        <activity android:name=".Rule2Activity" />
+        <activity android:name=".Rule3Activity" />
+        <activity android:name=".Rule4Activity"></activity>
     </application>
 
 </manifest>

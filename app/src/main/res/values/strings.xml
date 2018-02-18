@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Most Wanted Prom</string>
     <string name="welcome_to_the_app">WELCOME TO THE APP</string>
+    <string name="rule_1">This is a voting app you will get a chance to vote for 3 people of your opposite sex.</string>
+    <string name="rule_2">Although you will have to signup the voting will be completely anonymus</string>
+    <string name="rule_3">The names of the top three people both male and female will be release after a time span of 48 hours</string>
+    <string name="rule_4">The results will be completely base on voting. The developers will have no liability on it</string>
 </resources>
